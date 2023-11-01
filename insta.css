@@ -1,0 +1,79 @@
+.image-p{
+    display: flex;
+    flex-wrap: wrap;
+    width: 425px;
+    height: 580px;
+position: relative;
+left: 300px;
+top: 23px;}
+.inner-image{border: 0px;
+width: fit-content;
+position: relative;
+left: 457px;
+top: -530px;
+}
+.box{border: 1.2px solid rgb(207, 206, 206);
+    display: flex;
+    flex-wrap: wrap;
+    width:340px;
+    height: 410px;
+position: relative;
+left: 750px;
+top: -1090px;
+
+}
+.heading h1{font-family: 'Lobster Two', cursive;
+font-size: 40px;
+color: rgba(26, 25, 22, 0.945);
+position: relative;
+left: 85px;
+top:13px;}
+.box-un{border: 1px solid rgb(207, 206, 206);
+    border-radius: 3px;
+    width: 250px;
+    height: 35px;
+    position: relative;
+    left: 45px;
+    top: -40px;
+}
+.box-pass{border: 1px solid rgb(207, 206, 206);
+    border-radius: 3px;
+    width: 250px;
+    height: 35px;
+    position: relative;
+    left: 45px;
+    top: -85px;
+}
+input{border: 1px solid transparent;
+    width: 243.7px;
+    height: 31px;
+
+}
+button{border: transparent;
+    border-radius: 6px;
+    width: 250px;
+    height: 34px;
+    position: relative;
+    left: 46px;
+    top: -120px;
+    background-color: rgb(21, 154, 207);
+}
+p.login{font: ;
+    font-size: 15px;
+color: white;
+position: relative;
+top: -6px;
+}
+.DOWN-BOX{border: 1.2px solid rgb(207, 206, 206);
+    width: 351PX;
+    height: 65px;
+    position: relative;
+    top: 108px;
+}
+p.account{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    position: relative;
+    left: 73PX;
+    top: 8PX;
+}
